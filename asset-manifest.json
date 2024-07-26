@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hayoke-website/static/css/main.ed75af0b.css",
+    "main.css": "/hayoke-website/static/css/main.476afae2.css",
     "main.js": "/hayoke-website/static/js/main.11f94f87.js",
     "static/js/453.46b26ad7.chunk.js": "/hayoke-website/static/js/453.46b26ad7.chunk.js",
     "static/media/bg-about-us2.jpg": "/hayoke-website/static/media/bg-about-us2.bd00647f414793fdffeb.jpg",
@@ -37,12 +37,12 @@
     "static/media/virgin-coconut-oil.jpg": "/hayoke-website/static/media/virgin-coconut-oil.418301d54375b76729e0.jpg",
     "static/media/Aseptic-Single-Strength-Coconut-Water.jpg": "/hayoke-website/static/media/Aseptic-Single-Strength-Coconut-Water.ce804e75e1b6676e6bb3.jpg",
     "index.html": "/hayoke-website/index.html",
-    "main.ed75af0b.css.map": "/hayoke-website/static/css/main.ed75af0b.css.map",
+    "main.476afae2.css.map": "/hayoke-website/static/css/main.476afae2.css.map",
     "main.11f94f87.js.map": "/hayoke-website/static/js/main.11f94f87.js.map",
     "453.46b26ad7.chunk.js.map": "/hayoke-website/static/js/453.46b26ad7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed75af0b.css",
+    "static/css/main.476afae2.css",
     "static/js/main.11f94f87.js"
   ]
 }
